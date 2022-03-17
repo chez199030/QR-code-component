@@ -21,7 +21,7 @@ body {
 .background-QR-code {
   border-radius: 20px;
   background-color: hsl(0, 0%, 100%);
-  width: 320px;
+  width: 322px;
   height: 500px;
 }
 
@@ -42,7 +42,7 @@ body {
 .img_caption-1 {
   font-weight: 700;
   text-align: center;
-  margin-top: 30px;
+  margin-top: 25px;
   color: hsl(218, 44%, 22%);
   font-size: 22px;
 }
